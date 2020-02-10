@@ -73,70 +73,6 @@
    { 
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
-      "name":"Boss Time Tracker",
-      "description":"Display elapsed time in the Fight Caves and Inferno",
-      "id":"bosstimetracker-plugin",
-      "releases":[ 
-         { 
-            "date":"2020-02-08",
-            "sha512sum":"216EC261212F27FA997520A4E38163CD721D3E12C95A979C2436E3FA5AC6CB082F68BFEEAEE433501AE14C5B933FB9488938C97C564374FE3856BB10ED7CCB57",
-            "version":"0.0.2",
-            "url":"https://github.com/open-plugins/oprs-plugins-release/blob/master/release/bosstimetracker-0.0.2.jar?raw=true",
-            "requires":"0.0.1"
-         }
-      ]
-   },
-   { 
-      "projectUrl":"https://discord.gg/OpenOSRS",
-      "provider":"OpenOSRS",
-      "name":"Bronze Man Mode",
-      "description":"Restrict yourself as an Iron Meme with GE use for items you have unlocked",
-      "id":"bronzemanmode-plugin",
-      "releases":[ 
-         { 
-            "date":"2020-02-08",
-            "sha512sum":"B831A54B4CCDC98B4C2C034E635B599CFD8AD27A258D1134F1EB4BB41A5B8DF8A4FCEEB66DA2895A03A60A892ED0040081902F880C4A9E94B0041483060855C3",
-            "version":"0.0.2",
-            "url":"https://github.com/open-plugins/oprs-plugins-release/blob/master/release/bronzeman-0.0.2.jar?raw=true",
-            "requires":"0.0.1"
-         }
-      ]
-   },
-   { 
-      "projectUrl":"https://discord.gg/OpenOSRS",
-      "provider":"OpenOSRS",
-      "name":"Camera",
-      "description":"Expands zoom limit, provides vertical camera, and remaps mouse input keys",
-      "id":"camera-plugin",
-      "releases":[ 
-         { 
-            "date":"2020-02-08",
-            "sha512sum":"7BA1DF120E74D8782B1929C60977552AE252C728A724835347FF98C5B61E67773AB432041BFFB2D774954F370F1DB5CEDCB6FD248B3936DE408F76AA85BCB0ED",
-            "version":"0.0.2",
-            "url":"https://github.com/open-plugins/oprs-plugins-release/blob/master/release/camera-0.0.2.jar?raw=true",
-            "requires":"0.0.1"
-         }
-      ]
-   },
-   { 
-      "projectUrl":"https://discord.gg/OpenOSRS",
-      "provider":"OpenOSRS",
-      "name":"Cannon",
-      "description":"Show information about cannon placement and/or amount of cannonballs",
-      "id":"cannon-plugin",
-      "releases":[ 
-         { 
-            "date":"2020-02-08",
-            "sha512sum":"62F97A37F81DD88778EB8EA2AEB4911F2CC0EBC98EF712BA3436F54EAD22FE36ED84AF7AECC906144A0831D6D6694328768FC087286A876E3B9F2F62325D9CC1",
-            "version":"0.0.3",
-            "url":"https://github.com/open-plugins/oprs-plugins-release/blob/master/release/cannon-0.0.3.jar?raw=true",
-            "requires":"0.0.1"
-         }
-      ]
-   },
-   { 
-      "projectUrl":"https://discord.gg/OpenOSRS",
-      "provider":"OpenOSRS",
       "name":"Cerberus",
       "description":"Show what to pray against the summoned souls",
       "id":"cerberus-plugin",
@@ -661,10 +597,10 @@
       "id":"bossticktimers-plugin",
       "releases":[ 
          { 
-            "date":"2020-02-08",
-            "sha512sum":"F7DD5A829C40A3EFFFAE8D3CBA5E9702328DC2D087B0B0F565385886C1B6E71818644827BAF127D83096763D97514F99D2D137057BC18347770ACB5667AF19E8",
-            "version":"0.0.2",
-            "url":"https://github.com/open-plugins/oprs-plugins-release/blob/master/release/ticktimers-0.0.2.jar?raw=true",
+            "date":"2020-02-10",
+            "sha512sum":"AAA010F63B52FEA1C1B8DAF7FF7781E92916E430132CA5107D1158F752DAC5D242D08343E02DD6B4EBDFB692E224F1AD6476EC1E72B8565DEAE07D1EFA50AA10",
+            "version":"0.0.3",
+            "url":"https://github.com/open-plugins/oprs-plugins-release/blob/master/release/ticktimers-0.0.3.jar?raw=true",
             "requires":"0.0.1"
          }
       ]
